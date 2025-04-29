@@ -11,3 +11,6 @@
 - Lecture avec `read()`
 - Gestion de buffers
 - Pointeurs et mémoire dynamique
+
+## Sujet du projet
+Vous pouvez consulter le sujet officiel ici : [📑 Sujet PDF](./get_next_line.subject.pdf)
